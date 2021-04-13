@@ -1,3 +1,9 @@
+### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+
+<a href="https://discord.gg/Ff3rqAYB89">
+  <img align="left" alt="Leeprky's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
 <h2 align="center">PROFILE STATS</h2>
 <a href="https://github.com/leeprky">
   <p align="center">
