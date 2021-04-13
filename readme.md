@@ -26,7 +26,7 @@ Join Ma Discord :)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=slook_theme&theme=radical)](https://github.com/leeprky/slook_theme)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical)](https://github.com/leeprky/Lode)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=radical)](https://github.com/leeprky/cybercordtheme-transparent)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=dark)](https://github.com/leeprky/cybercordtheme-yellow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=radical)](https://github.com/leeprky/cybercordtheme-yellow)
 
 
 <h2 align="center">THEME TOOLS</h2>
