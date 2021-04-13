@@ -16,8 +16,6 @@ Join Ma Discord :)
   </p>
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeprky&show_icons=true&theme=radical)
-
 
 <h2 align="center">MY THEMES</h2>
 
