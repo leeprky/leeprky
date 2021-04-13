@@ -16,13 +16,18 @@ Join Ma Discord :)
   </p>
 </a>
 
-<h2 align="center">THEMES</h2>
+<h2 align="center">MY THEMES</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=dark)](https://github.com/leeprky/BetterDefaultGlasscord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=dark)](https://github.com/leeprky/FullyThemedDiscord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=dark)](https://github.com/leeprky/BetterDefaultGlasscord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=slook_theme&theme=dark)](https://github.com/leeprky/slook_theme)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=dark)](https://github.com/leeprky/Lode)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=dark)](https://github.com/leeprky/cybercordtheme-transparent)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=dark)](https://github.com/leeprky/cybercordtheme-yellow)
 
-<h2 align="center">THEME ADDONS</h2>
+
+<h2 align="center">THEME TOOLS</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=dark)](https://github.com/leeprky/FullyThemedDiscord)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenpleBeGone&theme=dark)](https://github.com/leeprky/GreenpleBeGone)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenpleBeGone&theme=dark)](https://github.com/leeprky/GreenpleBeGone)]
