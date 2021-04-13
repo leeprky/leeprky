@@ -30,4 +30,3 @@ Join Ma Discord :)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=dark)](https://github.com/leeprky/FullyThemedDiscord)]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenpleBeGone&theme=dark)](https://github.com/leeprky/GreenpleBeGone)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenpleBeGone&theme=dark)](https://github.com/leeprky/GreenpleBeGone)]
