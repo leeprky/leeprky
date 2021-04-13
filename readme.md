@@ -16,6 +16,9 @@ Join Ma Discord :)
   </p>
 </a>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <h2 align="center">MY THEMES</h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=dark)](https://github.com/leeprky/FullyThemedDiscord)
