@@ -1,4 +1,4 @@
-### Hi there, I'm [Lee!](https://leeprky.github.io/) 👋
+### Hi there, I'm [Lee!](https://leeprky.github.io/leeprky/) 👋
 # Im A simple CSS Dev (scuffed one) That Mainly Does Discord Themes etc etc
 
 <a href="https://discord.gg/Ff3rqAYB89">
