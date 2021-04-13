@@ -7,20 +7,29 @@ Join Ma Discord :)
 </a>
 
 <h2 align="center">PROFILE STATS</h2>
+<a href="https://github.com/leeprky">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views Count">
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=radical" alt="Leeprkys Language Usages">
+  </p>
+</a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeprky&show_icons=true&theme=radical)
 
 
 <h2 align="center">MY THEMES</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=dark)](https://github.com/leeprky/FullyThemedDiscord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=dark)](https://github.com/leeprky/BetterDefaultGlasscord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=slook_theme&theme=dark)](https://github.com/leeprky/slook_theme)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=dark)](https://github.com/leeprky/Lode)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=dark)](https://github.com/leeprky/cybercordtheme-transparent)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=radical)](https://github.com/leeprky/FullyThemedDiscord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical)](https://github.com/leeprky/BetterDefaultGlasscord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=slook_theme&theme=radical)](https://github.com/leeprky/slook_theme)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical)](https://github.com/leeprky/Lode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=radical)](https://github.com/leeprky/cybercordtheme-transparent)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=dark)](https://github.com/leeprky/cybercordtheme-yellow)
 
 
 <h2 align="center">THEME TOOLS</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=dark)](https://github.com/leeprky/FullyThemedDiscord)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenpleBeGone&theme=dark)](https://github.com/leeprky/GreenpleBeGone)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight)](https://github.com/leeprky/FullyThemedDiscord)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenpleBeGone&theme=tokyonight)](https://github.com/leeprky/GreenpleBeGone)]
