@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views Count">
   </p>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckFire&show_icons=true&theme=dark" alt="Leeprkys Language Usages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=dark" alt="Leeprkys Language Usages">
   </p>
 </a>
 
