@@ -7,17 +7,8 @@ Join Ma Discord :)
 </a>
 
 <h2 align="center">PROFILE STATS</h2>
-<a href="https://github.com/leeprky">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views Count">
-  </p>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=dark" alt="Leeprkys Language Usages">
-  </p>
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeprky&show_icons=true&theme=radical)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <h2 align="center">MY THEMES</h2>
 
