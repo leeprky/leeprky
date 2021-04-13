@@ -1,6 +1,7 @@
 ### Hi there, I'm [Lee!](https://leeprky.github.io/leeprky/) 👋
 # Im A simple CSS Dev (scuffed one) That Mainly Does Discord Themes etc etc
 
+Join Ma Discord :)
 <a href="https://discord.gg/Ff3rqAYB89">
   <img align="left" alt="Leeprky's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
