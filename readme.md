@@ -1,5 +1,6 @@
 ### Hi there, I'm [Lee!](https://leeprky.github.io/leeprky/) 👋
-# Im A simple CSS Dev (scuffed one) That Mainly Does Discord Themes etc etc
+# Im A simple CSS Dev (scuffed one) That Mainly Does Discord Themes For Powercord/BetterDiscord & Most Recently Goosemod!
+
 
 Join Ma Discord :)
 <a href="https://discord.gg/Ff3rqAYB89">
@@ -9,12 +10,13 @@ Join Ma Discord :)
 <h2 align="center">PROFILE STATS</h2>
 <a href="https://github.com/leeprky">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views Count">
+    <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views">
   </p>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=radical" alt="Leeprkys Language Usages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=radical" alt="LeeprkysLanguage">
   </p>
 </a>
+
 
 
 <h2 align="center">MY THEMES</h2>
@@ -32,3 +34,7 @@ Join Ma Discord :)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight)](https://github.com/leeprky/FullyThemedDiscord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenpleBeGone&theme=tokyonight)](https://github.com/leeprky/GreenpleBeGone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MyThemesBasesStuffYeah&theme=tokyonight)](https://github.com/leeprky/MyThemesBasesStuffYeah)
+
+<h2 align="center">WHAT I HAVE WORKED ON</h2>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Glasscord&theme=dark)](https://github.com/AryToNeX/Glasscord)
