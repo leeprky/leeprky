@@ -35,6 +35,6 @@ Join Ma Discord :)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenpleBeGone&theme=tokyonight)](https://github.com/leeprky/GreenpleBeGone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MyThemesBasesStuffYeah&theme=tokyonight)](https://github.com/leeprky/MyThemesBasesStuffYeah)
 
-<h2 align="center">WHAT I HAVE WORKED ON</h2>
+<h2 align="center">What I Support</h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Glasscord&theme=dark)](https://github.com/AryToNeX/Glasscord)
