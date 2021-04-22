@@ -1,6 +1,7 @@
 ### Hi there, I'm [Lee!](https://leeprky.github.io/leeprky/) 👋
 # Im A simple CSS Dev (scuffed one) That Mainly Does Discord Themes For Powercord/BetterDiscord & Most Recently Goosemod!
 
+### Im Listening To...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&redirect=true)
 
 Join Ma Discord :)
