@@ -34,7 +34,7 @@ Join Ma Discord :)
 <h2 align="center">THEME TOOLS</h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight)](https://github.com/leeprky/FullyThemedDiscord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenpleBeGone&theme=tokyonight)](https://github.com/leeprky/GreenpleBeGone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenBeGo&theme=tokyonight)](https://github.com/leeprky/GreenBeGo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MyThemesBasesStuffYeah&theme=tokyonight)](https://github.com/leeprky/MyThemesBasesStuffYeah)
 
 <h2 align="center">What I Support</h2>
