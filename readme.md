@@ -40,6 +40,11 @@ Join Ma Discord :)
 </a>
 <a href="https://github.com/leeprky/cybercordtheme-transparent">
   <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=radical" alt="Cybercord-Transparent">
+  </p>
+</a>
+<a href="https://github.com/leeprky/cybercordtheme-transparent">
+  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=radical" alt="Cybercord-Transparent">
   </p>
 </a>
