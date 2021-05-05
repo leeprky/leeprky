@@ -32,9 +32,9 @@ Join Ma Discord :)
 
 <h2 align="center">UPCOMING</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=highcontrast)](https://github.com/leeprky/Fluidcord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=highcontrast)](https://github.com/leeprky/Quarrel)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=highcontrast)](https://github.com/leeprky/Slook-Remastered)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Fluidcord&theme=highcontrast)](https://github.com/leeprky/Fluidcord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Quarrel&theme=highcontrast)](https://github.com/leeprky/Quarrel)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook-Remastered&theme=highcontrast)](https://github.com/leeprky/Slook-Remastered)
 
 <h2 align="center">THEME TOOLS</h2>
 
