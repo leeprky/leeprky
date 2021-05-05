@@ -2,6 +2,7 @@
 <h2 align="center">- Hey I'm Lee -</h2>
 # Im A simple CSS Developer That Makes Discord Themes For - 
 **[Powercord](https://powercord.dev/)** & **[BetterDiscord](https://betterdiscord.app/)**
+[USRBG](https://github.com/Discord-Custom-Covers/usrbg)
 
 
 <h2 align="center">PROFILE</h2>
