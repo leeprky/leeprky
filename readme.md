@@ -16,7 +16,7 @@ Join Ma Discord :)
   </p>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=algolia" alt="Leeprky">
-    <img align="center" src="https://i.imgur.com/pHTgXeb.png" width="1000px" height="1000px alt="Leeprky">
+    <img align="center" src="https://i.imgur.com/pHTgXeb.png" width="500px" height="500px alt="Leeprky">
   </p>
 </a>
 
