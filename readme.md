@@ -15,7 +15,7 @@ Join Ma Discord :)
     <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views">
   </p>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=radical" alt="LeeprkysLanguage">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=algolia" alt="Leeprky">
   </p>
 </a>
 
