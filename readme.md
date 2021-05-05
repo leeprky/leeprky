@@ -2,10 +2,8 @@
 
 Im A simple CSS Developer That Makes Discord Themes For:
 
-  <p align="center">
-- **[Powercord](https://powercord.dev/)** 
-- **[BetterDiscord](https://betterdiscord.app/developer/Leeprky)**
-  </p>
+**[Powercord](https://powercord.dev/)** 
+**[BetterDiscord](https://betterdiscord.app/developer/Leeprky)**
 
 
 <h2 align="center">PROFILE</h2>
