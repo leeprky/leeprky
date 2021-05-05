@@ -5,7 +5,7 @@
 <h2 align="center">PROFILE</h2>
 <a href="https://github.com/leeprky">
   <p align="center">
-    <img src="![](https://komarev.com/ghpvc/?username=leeprky&color=yellow)" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=leeprky&color=yellow" alt="Profile Views">
     <a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
   </p>
   <p align="center">
