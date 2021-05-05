@@ -76,10 +76,27 @@
 
 <h2 align="center">THEME TOOLS</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight)](https://github.com/leeprky/FullyThemedDiscord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenBeGo&theme=tokyonight)](https://github.com/leeprky/GreenBeGo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MyThemesBasesStuffYeah&theme=tokyonight)](https://github.com/leeprky/MyThemesBasesStuffYeah)
+<a href="https://github.com/leeprky/FullyThemedDiscord">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight" alt="FullyThemedDiscord">
+  </p>
+</a>
+<a href="https://github.com/leeprky/GreenBeGo">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenBeGo&theme=tokyonight" alt="GreenBeGo">
+  </p>
+</a>
+<a href="https://github.com/leeprky/MyThemesBasesStuffYeah">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MyThemesBasesStuffYeah&theme=tokyonight" alt="MyThemesBasesStuffYeah">
+  </p>
+</a>
 
 <h2 align="center">What I Support</h2>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryToNeX&repo=Glasscord&theme=dark)](https://github.com/AryToNeX/Glasscord)
+<a href="https://github.com/leeprky/MyThemesBasesStuffYeah">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryToNeX&repo=Glasscord&theme=dark" alt="Glasscord">
+  </p>
+</a>
