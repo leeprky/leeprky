@@ -1,5 +1,6 @@
-<h2 align="center">### Hi there, I'm [Lee!](https://leeprky.github.io/leeprky/) 👋</h2>
-# Im A simple CSS Dev (scuffed one) That Mainly Does Discord Themes For Powercord/BetterDiscord & Most Recently Goosemod!
+<h2 align="center">- Hey I'm Lee -</h2>
+<h2 align="center">- Hey I'm Lee -</h2>
+# Im A simple CSS Developer That Makes Discord Themes For - **[Powercord](https://powercord.dev/)** & **[BetterDiscord](https://betterdiscord.app/)**
 
 
 <h2 align="center">PROFILE</h2>
