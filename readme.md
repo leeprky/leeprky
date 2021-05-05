@@ -1,8 +1,6 @@
 <h2 align="center">- Hey I'm Lee -</h2>
+<h2 align="center">- Im A simple CSS Developer That Makes Discord Themes For: - **[Powercord](https://powercord.dev/)** **[BetterDiscord](https://betterdiscord.app/developer/Leeprky)**</h2>
 
-Im A simple CSS Developer That Makes Discord Themes For:
-
-**[Powercord](https://powercord.dev/)** **[BetterDiscord](https://betterdiscord.app/developer/Leeprky)**
 
 
 <h2 align="center">PROFILE</h2>
