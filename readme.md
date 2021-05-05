@@ -6,9 +6,9 @@
 <a href="https://github.com/leeprky">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views">
+    <a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
   </p>
   <p align="center">
-<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&cover_image=true&theme=novatorem" alt="BDG">
   </p>
 </a>
