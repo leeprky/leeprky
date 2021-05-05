@@ -16,9 +16,13 @@ Join Ma Discord :)
   </p>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=algolia" alt="Leeprky">
-    <img align="center" src="https://i.imgur.com/pHTgXeb.png" width="500px" height="500px alt="Leeprky">
   </p>
 </a>
+
+<p align="center">
+<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+</p>
 
 
 
