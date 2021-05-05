@@ -44,4 +44,4 @@ Join Ma Discord :)
 
 <h2 align="center">What I Support</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Glasscord&theme=dark)](https://github.com/AryToNeX/Glasscord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryToNeX&repo=Glasscord&theme=dark)](https://github.com/AryToNeX/Glasscord)
