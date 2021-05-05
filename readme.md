@@ -33,9 +33,9 @@ Join Ma Discord :)
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical)" alt="SLOOK">
   </p>
 </a>
-<a href="https://github.com/leeprky/Slook">
+<a href="https://github.com/leeprky/Lode">
   <p align="center">
-    <img align="center" src="(https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical)" alt="SLOOK">
+    <img align="center" src="(https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical)" alt="Lode">
   </p>
 </a>
 
