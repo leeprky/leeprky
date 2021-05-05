@@ -25,6 +25,8 @@
 <a href="https://github.com/leeprky/BetterDefaultGlasscord">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical" alt="BDG">
+<a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+</p>
   </p>
 </a>
 <a href="https://github.com/leeprky/Slook">
