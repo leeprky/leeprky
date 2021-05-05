@@ -30,6 +30,9 @@ Join Ma Discord :)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=radical)](https://github.com/leeprky/cybercordtheme-yellow)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=radical)](https://github.com/leeprky/Naive)
 
+<h2 align="center">UPCOMING</h2>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=highcontrast)](https://github.com/leeprky/Fluidcord)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=highcontrast)](https://github.com/leeprky/Slook-Remastered)
 
 <h2 align="center">THEME TOOLS</h2>
 
