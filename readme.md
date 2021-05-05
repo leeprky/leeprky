@@ -23,6 +23,15 @@ Join Ma Discord :)
 
 <h2 align="center">MY THEMES</h2>
 
+<a href="https://github.com/leeprky/BetterDefaultGlasscord">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views">
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical" alt="LeeprkysLanguage">
+  </p>
+</a>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical)](https://github.com/leeprky/BetterDefaultGlasscord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical)](https://github.com/leeprky/slook_theme)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical)](https://github.com/leeprky/Lode)
