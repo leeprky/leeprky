@@ -48,7 +48,7 @@ Join Ma Discord :)
 
 <a href="https://github.com/leeprky/Naive">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=highcontrast" alt="Naive">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=chartreuse-dark" alt="Naive">
   </p>
 </a>
 
