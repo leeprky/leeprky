@@ -25,9 +25,6 @@ Join Ma Discord :)
 
 <a href="https://github.com/leeprky/BetterDefaultGlasscord">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views">
-  </p>
-  <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical" alt="LeeprkysLanguage">
   </p>
 </a>
