@@ -30,19 +30,27 @@ Join Ma Discord :)
 </a>
 <a href="https://github.com/leeprky/Slook">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical)" alt="SLOOK">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical" alt="SLOOK">
   </p>
 </a>
 <a href="https://github.com/leeprky/Lode">
   <p align="center">
-    <img align="center" src="(https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical)" alt="Lode">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical" alt="Lode">
+  </p>
+</a>
+<a href="https://github.com/leeprky/cybercordtheme-transparent">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=radical" alt="Cybercord-Transparent">
   </p>
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical)](https://github.com/leeprky/Lode)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=radical)](https://github.com/leeprky/cybercordtheme-transparent)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=radical)](https://github.com/leeprky/cybercordtheme-yellow)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=radical)](https://github.com/leeprky/Naive)
+<h2 align="center">UNSUPPORTED</h2>
+
+<a href="https://github.com/leeprky/cybercordtheme-transparent">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=radical" alt="Naive">
+  </p>
+</a>
 
 <h2 align="center">UPCOMING</h2>
 
