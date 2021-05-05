@@ -46,20 +46,37 @@ Join Ma Discord :)
 
 <h2 align="center">UNSUPPORTED</h2>
 
-<a href="https://github.com/leeprky/cybercordtheme-transparent">
+<a href="https://github.com/leeprky/Naive">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=radical" alt="Naive">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=highcontrast" alt="Naive">
   </p>
 </a>
 
 <h2 align="center">UPCOMING</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Fluidcord&theme=highcontrast)](https://github.com/leeprky/Fluidcord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Quarrel&theme=highcontrast)](https://github.com/leeprky/Quarrel)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook-Remastered&theme=highcontrast)](https://github.com/leeprky/Slook-Remastered)
+<a href="https://github.com/leeprky/Fluidcord">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Fluidcord&theme=highcontrast" alt="Fluidcord">
+  </p>
+</a>
+<a href="https://github.com/leeprky/Quarrel">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Quarrel&theme=highcontrast" alt="Quarrel">
+  </p>
+</a>
+<a href="https://github.com/leeprky/Slook-Remastered">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook-Remastered&theme=highcontrast" alt="Slook-Remastered">
+  </p>
+</a>
 
 <h2 align="center">THEME TOOLS</h2>
 
+<a href="https://github.com/leeprky/FullyThemedDiscord">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight" alt="FullyThemedDiscord">
+  </p>
+</a>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight)](https://github.com/leeprky/FullyThemedDiscord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenBeGo&theme=tokyonight)](https://github.com/leeprky/GreenBeGo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MyThemesBasesStuffYeah&theme=tokyonight)](https://github.com/leeprky/MyThemesBasesStuffYeah)
