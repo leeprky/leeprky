@@ -94,8 +94,6 @@
 
 <h2 align="center">What I Support</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryToNeX&repo=Glasscord&theme=dark)](https://github.com/AryToNeX/Glasscord)
-<a href="https://github.com/leeprky/MyThemesBasesStuffYeah">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryToNeX&repo=Glasscord&theme=dark" alt="Glasscord">
   </p>
