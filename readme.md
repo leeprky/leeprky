@@ -25,12 +25,20 @@ Join Ma Discord :)
 
 <a href="https://github.com/leeprky/BetterDefaultGlasscord">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical" alt="LeeprkysLanguage">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical" alt="BDG">
+  </p>
+</a>
+<a href="https://github.com/leeprky/Slook">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical)" alt="SLOOK">
+  </p>
+</a>
+<a href="https://github.com/leeprky/Slook">
+  <p align="center">
+    <img align="center" src="(https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical)" alt="SLOOK">
   </p>
 </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical)](https://github.com/leeprky/BetterDefaultGlasscord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical)](https://github.com/leeprky/slook_theme)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical)](https://github.com/leeprky/Lode)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=radical)](https://github.com/leeprky/cybercordtheme-transparent)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=radical)](https://github.com/leeprky/cybercordtheme-yellow)
