@@ -1,4 +1,4 @@
-### Hi there, I'm [Lee!](https://leeprky.github.io/leeprky/) 👋
+<h2 align="center">### Hi there, I'm [Lee!](https://leeprky.github.io/leeprky/) 👋</h2>
 # Im A simple CSS Dev (scuffed one) That Mainly Does Discord Themes For Powercord/BetterDiscord & Most Recently Goosemod!
 
 
