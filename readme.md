@@ -4,15 +4,13 @@
 ### Im Listening To...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&redirect=true)
 
-Join Ma Discord :)
-<a href="https://discord.gg/Ff3rqAYB89">
-  <img align="left" alt="Leeprky's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
 <h2 align="center">PROFILE STATS</h2>
 <a href="https://github.com/leeprky">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Leeprky" alt="Profile Views">
+  </p>
+  <p align="center">
+<a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
   </p>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=algolia" alt="Leeprky">
