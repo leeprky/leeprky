@@ -43,9 +43,9 @@ Join Ma Discord :)
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=radical" alt="Cybercord-Transparent">
   </p>
 </a>
-<a href="https://github.com/leeprky/cybercordtheme-transparent">
+<a href="https://github.com/leeprky/cybercordtheme-yellow">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=radical" alt="Cybercord-Transparent">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=radical" alt="Cybercord-Yellow">
   </p>
 </a>
 
@@ -77,11 +77,6 @@ Join Ma Discord :)
 
 <h2 align="center">THEME TOOLS</h2>
 
-<a href="https://github.com/leeprky/FullyThemedDiscord">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight" alt="FullyThemedDiscord">
-  </p>
-</a>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight)](https://github.com/leeprky/FullyThemedDiscord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenBeGo&theme=tokyonight)](https://github.com/leeprky/GreenBeGo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MyThemesBasesStuffYeah&theme=tokyonight)](https://github.com/leeprky/MyThemesBasesStuffYeah)
