@@ -15,6 +15,7 @@
     <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&cover_image=true&theme=novatorem" alt="BDG">
   </p>
 </a>
+  <h2 align="center">STATS</h2>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=algolia" alt="Leeprky">
   </p>
