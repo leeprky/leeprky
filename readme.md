@@ -3,6 +3,11 @@
 
 ### Im Listening To...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&redirect=true)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&redirect=true">
+  <p align="center">
+    <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=662kfkekmpc0q4fexw8rngvat&cover_image=true&theme=novatorem" alt="BDG">
+  </p>
+</a>
 
 <h2 align="center">PROFILE STATS</h2>
 <a href="https://github.com/leeprky">
