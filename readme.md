@@ -3,8 +3,6 @@
 Im A simple CSS Developer That Makes Discord Themes For:
 **[Powercord](https://powercord.dev/)** **[BetterDiscord](https://betterdiscord.app/developer/Leeprky)**
 
-
-
 <h2 align="center">PROFILE</h2>
 <a href="https://github.com/leeprky">
   <p align="center">
@@ -20,8 +18,6 @@ Im A simple CSS Developer That Makes Discord Themes For:
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leeprky&show_icons=true&theme=algolia" alt="Leeprky">
   </p>
 </a>
-
-
 
 <h2 align="center">MY THEMES</h2>
 
@@ -101,3 +97,4 @@ Im A simple CSS Developer That Makes Discord Themes For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AryToNeX&repo=Glasscord&theme=dark" alt="Glasscord">
   </p>
 </a>
+
