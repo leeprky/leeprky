@@ -1,10 +1,8 @@
 <h2 align="center">- Hey I'm Lee -</h2>
 <h2 align="center">- Hey I'm Lee -</h2>
-# Im A simple CSS Developer That Makes Discord Themes For - 
-Addons Used In Lode:
-- **[Tropical](https://github.com/Tropix126)** | [USRBG](https://github.com/Discord-Custom-Covers/usrbg).
-- **[NYRI4](https://github.com/NYRI4)** | [Discolored](https://github.com/NYRI4/Discolored).
-- **[snappercord](https://github.com/snappercord)** | [Settings-Icons](https://github.com/snappercord/Settings-Icons).
+# Im A simple CSS Developer That Makes Discord Themes For
+
+- **[Tropical](https://github.com/Tropix126)**
 
 
 <h2 align="center">PROFILE</h2>
