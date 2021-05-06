@@ -85,6 +85,11 @@ Im A simple CSS Developer That Makes Discord Themes For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenBeGo&theme=tokyonight" alt="GreenBeGo">
   </p>
 </a>
+<a href="https://github.com/leeprky/BlurpleColor">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BlurpleColor&theme=tokyonight" alt="BlurpleColor">
+  </p>
+</a>
 <a href="https://github.com/leeprky/MyThemesBasesStuffYeah">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MyThemesBasesStuffYeah&theme=tokyonight" alt="MyThemesBasesStuffYeah">
