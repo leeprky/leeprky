@@ -21,9 +21,9 @@ Im A CSS Theme Developer For:
 
 <h2 align="center">MY THEMES</h2>
 
-<a href="https://github.com/leeprky/BetterDefaultGlasscord">
+<a href="https://github.com/leeprky/Lode">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical" alt="BDG">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical" alt="Lode">
   </p>
 </a>
 <a href="https://github.com/leeprky/Slook">
@@ -31,19 +31,14 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical" alt="SLOOK">
   </p>
 </a>
-<a href="https://github.com/leeprky/Lode">
+<a href="https://github.com/leeprky/BetterDefaultGlasscord">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical" alt="Lode">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical" alt="BDG">
   </p>
 </a>
 <a href="https://github.com/leeprky/cybercordtheme-transparent">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=radical" alt="Cybercord-Transparent">
-  </p>
-</a>
-<a href="https://github.com/leeprky/cybercordtheme-yellow">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=radical" alt="Cybercord-Yellow">
   </p>
 </a>
 
@@ -52,6 +47,21 @@ Im A CSS Theme Developer For:
 <a href="https://github.com/leeprky/Naive">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=chartreuse-dark" alt="Naive">
+  </p>
+</a>
+<a href="https://github.com/leeprky/cybercordtheme-yellow">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-yellow&theme=chartreuse-dark" alt="Cybercord-Yellow">
+  </p>
+</a>
+<a href="https://github.com/leeprky/cybercordtheme-cyan">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-cyan&theme=chartreuse-dark" alt="Cybercord-Cyan">
+  </p>
+</a>
+<a href="https://github.com/leeprky/cybercordtheme-lite">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-lite&theme=chartreuse-dark" alt="Cybercord-Lite">
   </p>
 </a>
 
