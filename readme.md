@@ -34,7 +34,7 @@ Im A CSS Theme Developer For:
 </a>
 <a href="https://github.com/leeprky/Slook-Remastered">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook-Remastered&theme=highcontrast" alt="Slook-Remastered">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook-Remastered&theme=radical" alt="Slook-Remastered">
   </p>
 </a>
 <a href="https://github.com/leeprky/BetterDefaultGlasscord">
@@ -57,7 +57,7 @@ Im A CSS Theme Developer For:
 </a>
 <a href="https://github.com/leeprky/Slook">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical" alt="SLOOK">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=chartreuse-dark" alt="SLOOK">
   </p>
 </a>
 <a href="https://github.com/leeprky/cybercordtheme-yellow">
