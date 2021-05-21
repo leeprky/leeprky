@@ -32,9 +32,9 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Quarrel&theme=radical" alt="Quarrel">
   </p>
 </a>
-<a href="https://github.com/leeprky/Slook">
+<a href="https://github.com/leeprky/Slook-Remastered">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical" alt="SLOOK">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook-Remastered&theme=highcontrast" alt="Slook-Remastered">
   </p>
 </a>
 <a href="https://github.com/leeprky/BetterDefaultGlasscord">
@@ -53,6 +53,11 @@ Im A CSS Theme Developer For:
 <a href="https://github.com/leeprky/Naive">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=chartreuse-dark" alt="Naive">
+  </p>
+</a>
+<a href="https://github.com/leeprky/Slook">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=radical" alt="SLOOK">
   </p>
 </a>
 <a href="https://github.com/leeprky/cybercordtheme-yellow">
@@ -78,11 +83,12 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Fluidcord&theme=highcontrast" alt="Fluidcord">
   </p>
 </a>
-<a href="https://github.com/leeprky/Slook-Remastered">
+<a href="https://github.com/leeprky/Peninsula">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook-Remastered&theme=highcontrast" alt="Slook-Remastered">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Peninsula&theme=highcontrast" alt="Peninsula">
   </p>
 </a>
+
 
 <h2 align="center">THEME TOOLS</h2>
 
