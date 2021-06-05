@@ -83,6 +83,11 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Fluidcord&theme=highcontrast" alt="Fluidcord">
   </p>
 </a>
+<a href="https://github.com/leeprky/Ovel">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Ovel&theme=highcontrast" alt="Ovel">
+  </p>
+</a>
 <a href="https://github.com/leeprky/Peninsula">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Peninsula&theme=highcontrast" alt="Peninsula">
