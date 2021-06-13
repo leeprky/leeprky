@@ -37,6 +37,11 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical" alt="Lode">
   </p>
 </a>
+<a href="https://github.com/leeprky/Naive">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=radical" alt="Naive">
+  </p>
+</a>
 <a href="https://github.com/leeprky/Slook-Remastered">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook-Remastered&theme=radical" alt="Slook-Remastered">
@@ -55,11 +60,6 @@ Im A CSS Theme Developer For:
 
 <h2 align="center">UNSUPPORTED</h2>
 
-<a href="https://github.com/leeprky/Naive">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=chartreuse-dark" alt="Naive">
-  </p>
-</a>
 <a href="https://github.com/leeprky/Slook">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=chartreuse-dark" alt="SLOOK">
