@@ -22,14 +22,19 @@ Im A CSS Theme Developer For:
 
 <h2 align="center">MY THEMES</h2>
 
-<a href="https://github.com/leeprky/Lode">
+<a href="https://github.com/leeprky/Ovel">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical" alt="Lode">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Ovel&theme=radical" alt="Ovel">
   </p>
 </a>
 <a href="https://github.com/leeprky/Quarrel">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Quarrel&theme=radical" alt="Quarrel">
+  </p>
+</a>
+<a href="https://github.com/leeprky/Lode">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical" alt="Lode">
   </p>
 </a>
 <a href="https://github.com/leeprky/Slook-Remastered">
@@ -81,11 +86,6 @@ Im A CSS Theme Developer For:
 <a href="https://github.com/leeprky/Fluidcord">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Fluidcord&theme=highcontrast" alt="Fluidcord">
-  </p>
-</a>
-<a href="https://github.com/leeprky/Ovel">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Ovel&theme=highcontrast" alt="Ovel">
   </p>
 </a>
 <a href="https://github.com/leeprky/Peninsula">
