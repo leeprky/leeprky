@@ -83,6 +83,11 @@ Im A CSS Theme Developer For:
 
 <h2 align="center">UPCOMING</h2>
 
+<a href="https://github.com/leeprky/WindowsXI">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=WindowsXI&theme=highcontrast" alt="WindowsXI">
+  </p>
+</a>
 <a href="https://github.com/leeprky/Fluidcord">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Fluidcord&theme=highcontrast" alt="Fluidcord">
