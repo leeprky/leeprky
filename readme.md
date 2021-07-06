@@ -68,7 +68,7 @@ Im A CSS Theme Developer For:
 <h2 align="center">Spicetify Themes</h2>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Spotify-Themes&theme=vue-dark" alt="Spicetify Themes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Spicetify-Themes&theme=vue-dark" alt="Spicetify Themes">
   </p>
 </a>
 
