@@ -20,6 +20,8 @@ Im A CSS Theme Developer For:
   </p>
 </a>
 
+
+
 <h2 align="center">MY THEMES</h2>
 
 <a href="https://github.com/leeprky/WindowsXI">
@@ -60,6 +62,13 @@ Im A CSS Theme Developer For:
 <a href="https://github.com/leeprky/cybercordtheme-transparent">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=radical" alt="Cybercord-Transparent">
+  </p>
+</a>
+
+<h2 align="center">Spicetify Themes</h2>
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Spotify-Themes&theme=green" alt="Spicetify Themes">
   </p>
 </a>
 
