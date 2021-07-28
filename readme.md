@@ -44,11 +44,6 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Lode&theme=radical" alt="Lode">
   </p>
 </a>
-<a href="https://github.com/leeprky/Naive">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=radical" alt="Naive">
-  </p>
-</a>
 <a href="https://github.com/leeprky/Slook-Remastered">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook-Remastered&theme=radical" alt="Slook-Remastered">
@@ -57,11 +52,6 @@ Im A CSS Theme Developer For:
 <a href="https://github.com/leeprky/BetterDefaultGlasscord">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical" alt="BDG">
-  </p>
-</a>
-<a href="https://github.com/leeprky/cybercordtheme-transparent">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=radical" alt="Cybercord-Transparent">
   </p>
 </a>
 
@@ -74,10 +64,19 @@ Im A CSS Theme Developer For:
 </a>
 
 <h2 align="center">UNSUPPORTED</h2>
-
+<a href="https://github.com/leeprky/Naive">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=chartreuse-dark" alt="Naive">
+  </p>
+</a>
 <a href="https://github.com/leeprky/Slook">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Slook&theme=chartreuse-dark" alt="SLOOK">
+  </p>
+</a>
+<a href="https://github.com/leeprky/cybercordtheme-transparent">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-transparent&theme=chartreuse-dark" alt="Cybercord-Transparent">
   </p>
 </a>
 <a href="https://github.com/leeprky/cybercordtheme-yellow">
@@ -95,6 +94,11 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=cybercordtheme-lite&theme=chartreuse-dark" alt="Cybercord-Lite">
   </p>
 </a>
+<a href="https://github.com/leeprky/Peninsula">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Peninsula&theme=chartreuse-dark" alt="Peninsula">
+  </p>
+</a>
 
 <h2 align="center">UPCOMING</h2>
 
@@ -108,12 +112,6 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Evo&theme=highcontrast" alt="Evo">
   </p>
 </a>
-<a href="https://github.com/leeprky/Peninsula">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Peninsula&theme=highcontrast" alt="Peninsula">
-  </p>
-</a>
-
 
 <h2 align="center">THEME TOOLS</h2>
 
