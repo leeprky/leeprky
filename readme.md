@@ -1,7 +1,7 @@
 <h2 align="center">- Hey I'm Lee -</h2>
 <h2 align="center">- https://leeprky.github.io/Home -</h2>
 
-Im A CSS Theme Developer For:
+Im A CSS/SCSS Theme Developer For:
 **[Powercord](https://powercord.dev/)** **[BetterDiscord](https://betterdiscord.app/developer/Leeprky)**
 
 <h2 align="center">PROFILE</h2>
@@ -20,13 +20,33 @@ Im A CSS Theme Developer For:
   </p>
 </a>
 
-
-
 <h2 align="center">MY THEMES</h2>
 
-<a href="https://github.com/leeprky/WindowsXI">
+<a href="https://github.com/leeprky/MaterialYouTheme">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=WindowsXI&theme=radical" alt="WindowsXI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MaterialYouTheme &theme=radical" alt="WindowsXI">
+  </p>
+</a>
+
+<h2 align="center">UNMAINTAINED</h2>
+<a href="https://github.com/leeprky/MicrosoftTeams">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MicrosoftTeams&theme=radical" alt="WindowsXI">
+  </p>
+</a>
+<a href="https://github.com/leeprky/Bloop">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Bloop&theme=radical" alt="WindowsXI">
+  </p>
+</a>
+<a href="https://github.com/leeprky/Bloop">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Bloop&theme=radical" alt="WindowsXI">
+  </p>
+</a>
+<a href="https://github.com/leeprky/Bloop">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Bloop&theme=radical" alt="WindowsXI">
   </p>
 </a>
 <a href="https://github.com/leeprky/Ovel">
@@ -54,16 +74,6 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BetterDefaultGlasscord&theme=radical" alt="BDG">
   </p>
 </a>
-
-<h2 align="center">Spicetify Themes</h2>
-
-<a href="https://github.com/leeprky/Spicetify-Themes">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Spicetify-Themes&theme=vue-dark" alt="Spicetify Themes">
-  </p>
-</a>
-
-<h2 align="center">UNSUPPORTED</h2>
 <a href="https://github.com/leeprky/Naive">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=naive&theme=chartreuse-dark" alt="Naive">
@@ -99,40 +109,9 @@ Im A CSS Theme Developer For:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Peninsula&theme=chartreuse-dark" alt="Peninsula">
   </p>
 </a>
-
-<h2 align="center">UPCOMING</h2>
-
 <a href="https://github.com/leeprky/Fluidcord">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Fluidcord&theme=highcontrast" alt="Fluidcord">
-  </p>
-</a>
-<a href="https://github.com/leeprky/Evo">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Evo&theme=highcontrast" alt="Evo">
-  </p>
-</a>
-
-<h2 align="center">THEME TOOLS</h2>
-
-<a href="https://github.com/leeprky/FullyThemedDiscord">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=FullyThemedDiscord&theme=tokyonight" alt="FullyThemedDiscord">
-  </p>
-</a>
-<a href="https://github.com/leeprky/GreenBeGo">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=GreenBeGo&theme=tokyonight" alt="GreenBeGo">
-  </p>
-</a>
-<a href="https://github.com/leeprky/BlurpleRecolor">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=BlurpleRecolor&theme=tokyonight" alt="BlurpleRecolor">
-  </p>
-</a>
-<a href="https://github.com/leeprky/MyThemesBasesStuffYeah">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MyThemesBasesStuffYeah&theme=tokyonight" alt="MyThemesBasesStuffYeah">
   </p>
 </a>
 
