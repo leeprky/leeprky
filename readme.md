@@ -24,29 +24,19 @@ Im A CSS/SCSS Theme Developer For:
 
 <a href="https://github.com/leeprky/MaterialYouTheme">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MaterialYouTheme &theme=radical" alt="WindowsXI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MaterialYouTheme&theme=radical" alt="MaterialYouTheme">
   </p>
 </a>
 
 <h2 align="center">UNMAINTAINED</h2>
 <a href="https://github.com/leeprky/MicrosoftTeams">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MicrosoftTeams&theme=radical" alt="WindowsXI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=MicrosoftTeams&theme=radical" alt="MicrosoftTeams">
   </p>
 </a>
 <a href="https://github.com/leeprky/Bloop">
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Bloop&theme=radical" alt="WindowsXI">
-  </p>
-</a>
-<a href="https://github.com/leeprky/Bloop">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Bloop&theme=radical" alt="WindowsXI">
-  </p>
-</a>
-<a href="https://github.com/leeprky/Bloop">
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Bloop&theme=radical" alt="WindowsXI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Leeprky&repo=Bloop&theme=radical" alt="Bloop">
   </p>
 </a>
 <a href="https://github.com/leeprky/Ovel">
