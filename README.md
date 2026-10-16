@@ -1,5 +1,6 @@
 # Hey, I'm leeprky 👋
-**Electrical & Mechanical Engineering @ University • Ex-Frontend Dev @ Powercord**
+**• Electrical & Mechanical Engineering @ University 
+• Ex-Frontend Dev @ Powercord**
 
 ---
 
